@@ -9,10 +9,6 @@
     'Django',
 ]
 
-// Choose your skills from below. Make sure it's in the same format and spelled correctly.
-// Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
-
-
 // AVAILABLE SKILLS
 
 /* 
@@ -20,78 +16,77 @@
     CSS
     JS 
     React
-    Next JS
-    Nuxt JS
+    // Next JS
+    // Nuxt JS
     Node JS
-    Vue
-    Angular
+    // Vue
+    // Angular
     Docker
     Photoshop
-    Illustrator
-    Svelte
+    // Illustrator
+    // Svelte
     GCP
     Azure
-    Fastify
-    Haxe
+    // Fastify
+    // Haxe
     Ionic
     Markdown
     Microsoft Office
-    Picsart
-    Sketch
-    Unity
-    WolframAlpha
-    Adobe XD
-    After Effects
+    // Picsart
+    // Sketch
+    // Unity
+    // WolframAlpha
+    // Adobe XD
+    // After Effects
     Bootstrap
-    Bulma
-    CapacitorJs
-    Coffeescript
-    MemSQL
+    // Bulma
+    // CapacitorJs
+    // Coffeescript
+    // MemSQL
     C
     C++
     C#
     Python
     Java
-    Julia
-    Matlab
-    Swift
-    Ruby
+    // Julia
+    // Matlab
+    // Swift
+    // Ruby
     Kotlin
-    Go
+    // Go
     PHP
     Flutter
     Dart
     Typescript
-    Swift
+    // Swift
     Git
     Figma
     Canva
     Ubuntu
-    Bootstrap
     MongoDB
     Tailwind
-    ViteJS
-    VuetifyJS
+    // ViteJS
+    // VuetifyJS
     MySQL
-    PostgreSQL
+    // PostgreSQL
     AWS
     Firebase
-    Blender
-    Premiere Pro
-    Adobe Audition
-    Deno
-    Django
-    Gimp
-    Graphql
-    Lightroom
+    // Blender
+    // Premiere Pro
+    // Adobe Audition
+    // Deno
+    // Django
+    // Gimp
+    // Graphql
+    // Lightroom
     MaterialUI
     Nginx
     Numpy
     OpenCV
-    Pytorch
+    // Pytorch
     Selenium
-    Strapi
-    Tensorflow
-    Webex
-    Wordpress
+    // Strapi
+    // Tensorflow
+    // Webex
+    // Wordpress
 */
